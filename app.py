@@ -9,7 +9,8 @@ import ast
 import operator
 import math
 import re
-
+from flask import Flask
+app=flask__name__
 BOT_NAME = "FRANEJ"
 VERSION = "3.2"
 
